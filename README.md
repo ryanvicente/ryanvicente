@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="bonito.css">
 
 [![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvicente&count_private=true&show_icons=true&theme=tokyonight&title_color=#000000)](https://github.com/anuraghazra/github-readme-stats)
-### Teconogias que eu utilizo:
+### Tecnonogias que eu utilizo:
 <div style="display: inline_block"><hr class="fancy">
 <!--
 **ryanvicente/ryanvicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
