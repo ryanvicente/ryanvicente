@@ -3,18 +3,19 @@
 
 [![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanvicente&count_private=true&show_icons=true&theme=tokyonight&title_color=#000000)](https://github.com/anuraghazra/github-readme-stats)
 ### Tecnonogias que eu utilizo:
-<div style="display: inline_block"><hr class="fancy">
-<!--
-**ryanvicente/ryanvicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" src="https://i.imgur.com/cnIAtJR.png"/>
+<div style="display: inline_block">
+  <img align="center" alt="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" with=50 height=50/>
+  &nbsp &nbsp &nbsp
+  <img align="center" alt="Html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" with=50 height=50/>
+  &nbsp &nbsp &nbsp
+  <img align="center" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" with=50 height=50/>
+  &nbsp &nbsp &nbsp
+  <img align="center" alt="DotnetCore" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" with=50 height=50/>
+  &nbsp &nbsp &nbsp
+  <img align="center" alt="Dotnet" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" with=50 height=50/>
+ </div>
+ 
+ ![Snake animation](https://github.com/ryanvicente/ryanvicente/blob/output/github-contribution-grid-snake.svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
